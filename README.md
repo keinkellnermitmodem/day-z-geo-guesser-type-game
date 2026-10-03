@@ -6,16 +6,4 @@ Included: **34 real in-game 360° panoramas**, a local Chernarus satellite map, 
 
 ## Licenses
 
-This starter distribution is **noncommercial**. The panorama collection is from tv104's **Lost in Cherno**, under LiCL-1.0, requiring attribution and public same-license source for distribution. The application retains that license. The official map has separate **ADPL-SA** terms. See `LICENSE.md` and `ATTRIBUTION.md` for complete provenance and the original license links. Keep these notices with the game. No monetization permission or endorsement is implied.
-
-## Project layout
-
-```text
-public/                 App, renderer, styles, local map, map labels
-locations/chernarus/    Drop screenshots + JSON here
-scripts/build.mjs       Recursive scanner, validation, static build, watcher
-scripts/dev.mjs         Local HTTP server
-tests/                  Coordinate/scoring/import/ZIP checks
-.github/workflows/      Automatic GitHub Pages deployment
-dist/                   Ready-to-host build (regenerated, ignored by Git)
-```
+This distribution is **noncommercial**. The panorama collection is from tv104's **Lost in Cherno**, under LiCL-1.0, requiring attribution and public same-license source for distribution. The application retains that license. The official map has separate **ADPL-SA** terms. See `LICENSE.md` and `ATTRIBUTION.md` for complete provenance and the original license links. Keep these notices with the game. No monetization permission or endorsement is implied.
