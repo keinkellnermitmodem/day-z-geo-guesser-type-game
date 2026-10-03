@@ -1,0 +1,16 @@
+{
+  "title": "Elektrozavodsk area",
+  "map": "chernarus",
+  "x": 10305,
+  "z": 2495,
+  "type": "panorama",
+  "author": "tv104 / Lost in Cherno",
+  "source": "https://github.com/tv104/lost-in-cherno/blob/569787d88fee42c89f18a44f48a1c21cd87071ba/src/config/chernarus/panoramas/34.webp",
+  "license": "LiCL-1.0; underlying DayZ content \u00a9 Bohemia Interactive",
+  "approximate": true,
+  "originalLocation": [
+    -73.55330167929105,
+    52.9541015625
+  ],
+  "calibration": "Inverse Web Mercator, then divide normalized UV by 0.96454214; approximate image registration to official CE map."
+}
